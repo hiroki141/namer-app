@@ -1,6 +1,6 @@
 # namer_app
 
-A new Flutter project.
+[Codelab](https://codelabs.developers.google.com/codelabs/flutter-codelab-first?hl=ja#0)で作成したFlutterのプロジェクト
 
 ## Getting Started
 
